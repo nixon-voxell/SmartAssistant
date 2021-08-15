@@ -1,0 +1,15 @@
+[submodule "Packages/UnityAI"]
+	path = Packages/UnityAI
+	url = https://github.com/voxell-tech/UnityAI.git
+[submodule "Packages/UnityUtil"]
+	path = Packages/UnityUtil
+	url = https://github.com/voxell-tech/UnityUtil.git
+[submodule "Packages/UnityAudioVisualizer"]
+	path = Packages/UnityAudioVisualizer
+	url = https://github.com/voxell-tech/UnityAudioVisualizer.git
+[submodule "Packages/UnityNLP"]
+	path = Packages/UnityNLP
+	url = https://github.com/voxell-tech/UnityNLP.git
+[submodule "Packages/Smart-Inspector"]
+	path = Packages/Smart-Inspector
+	url = https://github.com/neon-age/Smart-Inspector
