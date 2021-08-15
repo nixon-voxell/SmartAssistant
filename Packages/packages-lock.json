@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.av.smart-inspector": {
+      "version": "file:Smart-Inspector",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.github.asus4.tflite": {
       "version": "https://github.com/asus4/tf-lite-unity-sample.git?path=/Packages/com.github.asus4.tflite",
       "depth": 0,
