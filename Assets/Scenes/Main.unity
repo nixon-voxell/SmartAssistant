@@ -538,7 +538,7 @@ MonoBehaviour:
     window: 4
     sampleSize: 4096
     power: 1.1
-    scale: 2
+    scale: 3
     smoothingIterations: 10
     frequencyRange: 5000
     bandSize: 1280
@@ -547,6 +547,7 @@ MonoBehaviour:
   sampleMesh: {fileID: 289301614986012343, guid: 8eac8a7a1ac0ba3428ddb098e5ab5c4d, type: 3}
   velocityMultiplier: 0.95
   batchSize: 100
+  seed: 1
   totalTriangles: 1280
 --- !u!82 &275060732
 AudioSource:
@@ -558,7 +559,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d6114e4ec14d5704bb897fcab9a73459, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ce99ea42546b58740b79b0c8c5decd66, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
